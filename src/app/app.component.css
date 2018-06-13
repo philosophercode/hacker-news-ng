@@ -1,0 +1,12 @@
+h1, h2, li{
+    color: white;
+}
+
+iframe {
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+    border-radius: 12px;
+
+    box-shadow: 4px 4px 14px #000;
+}
